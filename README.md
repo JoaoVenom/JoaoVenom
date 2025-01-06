@@ -17,9 +17,9 @@ Sou estudante de Desenvolvimento Web Front-End, com experiência em HTML, CSS e 
 
 ### Projetos realizados/participados:
 <div>
-  <a href="#"><img src="https://ideaplus.tec.br/wp-content/uploads/2021/12/logo-white.png" alt="IdeaPlus" width= "200" /></a> |
-  <img src="https://www.crismannmoveis.com.br/wp-content/uploads/2024/05/logo-white-e1729185670248.png" alt="Crismann Móveis" width= "200" /> |
-  <img src="https://hometecsc.com.br/wp-content/uploads/2024/08/default-logo-1536x701.png" alt="Hometec SC" width= "200" /> |
+  <a href="https://ideaplus.tec.br/" target="_blank"><img src="https://ideaplus.tec.br/wp-content/uploads/2021/12/logo-white.png" alt="IdeaPlus" width= "200" /></a> |
+  <a href="http://www.crismannmoveis.com.br" target="_blank"><img src="https://www.crismannmoveis.com.br/wp-content/uploads/2024/05/logo-white-e1729185670248.png" alt="Crismann Móveis" width= "200" /></a> |
+  <a href="https://hometecsc.com.br" target="_blank"><img src="https://hometecsc.com.br/wp-content/uploads/2024/08/default-logo-1536x701.png" alt="Hometec SC" width= "200" /></a> |
 </div>
 
 <div>

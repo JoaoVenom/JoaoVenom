@@ -1,7 +1,7 @@
 ## Olá, eu sou o João Vítor 👋
 Sou estudante de Desenvolvimento Web Front-End, com experiência em HTML, CSS e JavaScript. Atuo no desenvolvimento de projetos utilizando a plataforma WordPress.
 
-### tecnologias web que eu uso:
+### Tecnologias web que eu uso:
 
 <div style="display: inline_block;"> <br/>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

@@ -10,11 +10,6 @@ Sou estudante de Desenvolvimento Web Front-End, com experiência em HTML, CSS e 
    <img alt="WordPress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </div>
 
-### Contatos:
-
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitorcamargo21891@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5548996933766&text=Ol%C3%A1%2C+Jo%C3%A3o%21+Tudo+bem%3F%0A+Eu+vi+o+seu+perfil+no+GitHub+e+me+interesso+em+seus+servi%C3%A7os+web.)
-
 ### Projetos realizados/participados:
 <div>
   <a href="https://ideaplus.tec.br/" target="_blank"><img src="https://ideaplus.tec.br/wp-content/uploads/2021/12/logo-white.png" alt="IdeaPlus" width= "200" /></a> |
@@ -37,3 +32,7 @@ Institucionais:<br>
 
 
 
+### Contatos:
+
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitorcamargo21891@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5548996933766&text=Ol%C3%A1%2C+Jo%C3%A3o%21+Tudo+bem%3F%0A+Eu+vi+o+seu+perfil+no+GitHub+e+me+interesso+em+seus+servi%C3%A7os+web.)

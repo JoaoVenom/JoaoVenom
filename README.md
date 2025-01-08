@@ -36,3 +36,4 @@ Institucionais:<br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitorcamargo21891@gmail.com)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5548996933766&text=Ol%C3%A1%2C+Jo%C3%A3o%21+Tudo+bem%3F%0A+Eu+vi+o+seu+perfil+no+GitHub+e+me+interesso+em+seus+servi%C3%A7os+web.)
+[![Github secundário](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joao-V-Camargo)
